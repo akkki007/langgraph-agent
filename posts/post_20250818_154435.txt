@@ -1,0 +1,52 @@
+SOCIAL MEDIA POST DETAILS
+Generated: 2025-08-18 15:44:35
+
+NEWS SOURCE:
+Title: Latest News - Metalpha Technology Holding Limited (NASDAQ
+URL: https://www.metalpha.finance/press-releases.html?page=3
+
+POST CONTENT:
+Caption: Metalpha Technology is on a roll with a staggering 300% revenue increase! 🚀 With a $5 million share repurchase program announced, the future looks brighter than ever. 🌟
+
+Hashtags: #Metalpha #FinancialGrowth #StockMarket #Investing #TechNews #BusinessBoom #ShareRepurchase #RevenueSurge #NASDAQ #Innovation
+
+Source: Image provided by Signl.
+
+TECHNICAL DETAILS:
+Image Path: posts\post_20250818_154424.png
+Logo Path: reference_posts\logo.png
+Prompt Used: Based on the analysis of the provided Instagram post images, here is a detailed image generation prompt for a new social media post:
+
+---
+
+**Image Generation Prompt:**
+
+Create an Instagram post for the professional finance news channel "Signl" to announce Metalpha Technology Holding Limited's latest financial results. The post should reflect the existing visual style and branding elements of Signl.
+
+**Visual Style and Theme:**
+- **Color Scheme:** Use a clean, professional color palette with primary colors being white and green (#3A6F41). Accent colors can be used sparingly for emphasis.
+- **Typography:** Utilize a modern, sans-serif font similar to the one used in the reference images. Key phrases should be bolded or highlighted in green for emphasis.
+- **Layout:** Maintain a structured, grid-like layout with clear sections. Use boxes or lines to separate content, ensuring readability.
+
+**Content Elements:**
+- **Title:** "Metalpha's Financial Surge!"
+  - Place this prominently at the top in bold, large font.
+- **Subtitle:** "Revenues up nearly four-fold; $5 million share repurchase announced."
+  - Position this below the title in a slightly smaller font.
+- **Body Text:** Briefly summarize the financial results and share repurchase program. Use bullet points or short paragraphs for clarity.
+- **Visuals:** Include simple, professional icons or illustrations related to finance, such as graphs or upward arrows, to visually represent growth.
+
+**Logo Placement:**
+- **Signl Logo:** Place the Signl logo prominently in the top left corner as a watermark. Ensure it is clearly visible but does not obstruct the main content.
+
+**Additional Elements:**
+- **Call to Action:** Include a subtle call to action at the bottom, such as "Swipe for more details" or "Follow us for updates," in a smaller font.
+- **Background:** Use a subtle grid pattern as seen in the reference images to maintain consistency.
+
+**Overall Tone:**
+- Professional, informative, and engaging, suitable for a finance-focused audience.
+
+---
+
+This prompt ensures the new post aligns with the established branding and visual style of Signl while effectively communicating the latest news about Metalpha Technology Holding Limited.
+Reference Folder: reference_posts

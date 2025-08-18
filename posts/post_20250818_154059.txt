@@ -1,0 +1,64 @@
+SOCIAL MEDIA POST DETAILS
+Generated: 2025-08-18 15:40:59
+
+NEWS SOURCE:
+Title: The Daily Fix | Pepperstone UK
+URL: https://jishijituan.finance/en-gb/analysis/the-daily-fix
+
+POST CONTENT:
+Caption: The markets are buzzing with excitement as the S&P 500 hits a new all-time high! Ethereum is also nearing its peak, while Malaysia enjoys a record low unemployment rate. Stay ahead with the latest financial updates!
+
+Hashtags: #FinancialNews #SP500 #Ethereum #MarketTrends #Economy #InvestSmart #CryptoNews #GlobalFinance #EconomicGrowth
+
+Source: The Daily Fix | Pepperstone UK
+
+TECHNICAL DETAILS:
+Image Path: posts\post_20250818_154045.png
+Logo Path: reference_posts\logo.png
+Prompt Used: Based on the analysis of the provided Instagram post images, here is a detailed image generation prompt for a new social media post for Signl:
+
+---
+
+**Image Generation Prompt:**
+
+Create an Instagram post for Signl, a professional finance news channel, using the following specifications:
+
+1. **Visual Style & Theme:**
+   - Maintain a clean, minimalist design with a professional tone.
+   - Use a grid background pattern to create a structured look.
+   - Incorporate simple, black-and-white illustrations to convey financial concepts.
+
+2. **Color Scheme:**
+   - Use a predominantly white background.
+   - Integrate green (#3A5F0B) as the primary accent color for text highlights and graphical elements.
+   - Use black for primary text to ensure readability and contrast.
+
+3. **Typography:**
+   - Use a modern, sans-serif font for all text elements.
+   - Highlight key terms or phrases in green to draw attention.
+   - Ensure text is clear and legible, with a hierarchy that emphasizes the main message.
+
+4. **Layout:**
+   - Divide the post into sections with clear headings and subheadings.
+   - Include a prominent headline at the top: "S&P500 Hits New All-Time High!"
+   - Add subheadings for additional information: "Ethereum Nears All-Time Highs" and "Malaysia's Unemployment Rate Low."
+   - Use bullet points or short paragraphs for concise information delivery.
+
+5. **Branding Elements:**
+   - Place the Signl logo in the top left corner, ensuring it is visible but not overpowering the main content.
+   - Consider using a watermark style for subtle branding.
+   - Include a call-to-action at the bottom: "Follow Signl for the Latest Financial Updates."
+
+6. **Content Specifics:**
+   - Visualize the S&P500 and Ethereum data with simple line graphs or icons.
+   - Use an icon or illustration to represent Malaysia's low unemployment rate.
+   - Ensure all visual elements align with the professional finance theme.
+
+7. **Overall Composition:**
+   - Balance text and visuals to maintain a clean and organized appearance.
+   - Ensure the post is visually engaging while conveying key financial news effectively.
+
+---
+
+This prompt should guide the creation of a cohesive and branded Instagram post for Signl, reflecting the company's established visual style and effectively communicating the latest financial news.
+Reference Folder: reference_posts

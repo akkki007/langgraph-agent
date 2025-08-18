@@ -1,0 +1,70 @@
+SOCIAL MEDIA POST DETAILS
+Generated: 2025-08-18 15:54:26
+
+NEWS SOURCE:
+Title: Latest News - Metalpha Technology Holding Limited (NASDAQ)
+URL: https://www.metalpha.finance/press-releases.html?page=3
+
+POST CONTENT:
+Caption: Metalpha is on the rise! With a remarkable 4x revenue increase and a $5M share repurchase program, the future looks bright. Stay tuned for more exciting updates!
+
+Hashtags: #Metalpha #RevenueGrowth #FinanceNews #InvestSmart #StockMarket #BusinessSuccess #FinancialGrowth #ShareRepurchase #NASDAQ #MarketTrends
+
+Source: Follow @Signl for more updates
+
+TECHNICAL DETAILS:
+Image Path: posts\post_20250818_155417.png
+Logo Path: reference_posts\logo.png
+Prompt Used: ### Analysis of Instagram Posts
+
+**Visual Style:**
+- Minimalistic and clean design.
+- Use of grid backgrounds for a structured look.
+- Simple, bold illustrations of people to convey concepts.
+- Consistent use of icons and symbols for emphasis.
+
+**Colors:**
+- Dominant use of green, black, and white.
+- Green is used for highlights and important text.
+- Black and white illustrations and text for clarity and contrast.
+
+**Branding:**
+- Consistent placement of the "Signl" logo in the top left corner.
+- Use of a sans-serif font for a modern and professional appearance.
+- Text is clear, concise, and informative, focusing on financial insights.
+
+### Detailed Prompt for New Instagram Post
+
+**Title:** Metalpha's Financial Growth & Share Repurchase Announcement
+
+**Visual Elements:**
+- **Background:** Use a grid pattern similar to previous posts for consistency.
+- **Main Visual:** Create a simple, bold illustration of a growing financial graph or a stack of coins to symbolize financial growth.
+- **Icons:** Include a dollar sign or stock market symbol to emphasize the financial theme.
+
+**Text Content:**
+- **Headline:** "Metalpha's Revenue Soars 4x!"
+- **Subheadline:** "Announces $5M Share Repurchase Program"
+- **Body Text:** Briefly summarize the financial results and the significance of the share repurchase program. Use bullet points for clarity:
+  - Revenue increased four-fold in H1 FY2025.
+  - $5 million allocated for share repurchase.
+
+**Colors:**
+- Use green for headlines and important figures.
+- Black for body text.
+- White background for a clean look.
+
+**Branding:**
+- Place the "Signl" logo in the top left corner.
+- Include Metalpha's logo as a watermark in the bottom right corner for brand recognition.
+
+**Call to Action:**
+- Include a subtle arrow or icon prompting users to swipe for more details.
+- Add "Follow @Signl for more updates" at the bottom.
+
+**Format:**
+- Ensure the post is optimized for Instagram's square format.
+- Maintain a balance between text and visuals for easy readability.
+
+This prompt ensures the new post aligns with the existing branding and visual style of Signl while effectively communicating the key financial news about Metalpha.
+Reference Folder: reference_posts

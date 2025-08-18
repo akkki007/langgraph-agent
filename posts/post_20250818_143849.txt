@@ -1,0 +1,53 @@
+SOCIAL MEDIA POST DETAILS
+Generated: 2025-08-18 14:38:49
+
+NEWS SOURCE:
+Title: News - Qualco Intelligent Finance
+URL: https://www.qualco.finance/news
+
+POST CONTENT:
+Caption: Exciting news! 🤝 Qualco Intelligent Finance is teaming up with Athens University to redefine finance education and innovation. Together, we're paving the way for the future of financial expertise! 🌟
+
+Hashtags: #QualcoFinance #AthensUniversity #FinanceInnovation #EducationPartnership #FutureOfFinance #FinancialEducation #InnovationInFinance #UniversityCollaboration #FinanceLeaders #QualcoPartnership
+
+Source: Image by Qualco Intelligent Finance
+
+TECHNICAL DETAILS:
+Image Path: posts\post_20250818_143839.png
+Prompt Used: Based on the analysis of the provided Instagram post images, here's a detailed image generation prompt for a new social media post:
+
+---
+
+**Image Generation Prompt:**
+
+Create a social media post for "Qualco Intelligent Finance" announcing their cooperation agreement with Athens University of Economics and Business. The design should reflect the following elements:
+
+1. **Visual Style:**
+   - Use a clean, minimalist design with a focus on clarity and simplicity.
+   - Incorporate hand-drawn, black-and-white illustrations of professionals or students, similar to the style of the characters in the reference images.
+
+2. **Color Scheme:**
+   - Primary color: Green (#3b7f3b) for text highlights and branding elements.
+   - Secondary colors: Black and white for text and illustrations.
+   - Background: Subtle grid pattern in light gray to maintain consistency with the reference images.
+
+3. **Typography:**
+   - Use a modern sans-serif font.
+   - Headline: Bold and green, e.g., "Qualco Intelligent Finance Partners with Athens University!"
+   - Subtext: Regular weight, black, e.g., "Exploring new horizons in finance education and innovation."
+
+4. **Layout Patterns:**
+   - Place the company logo "Qualco Intelligent Finance" prominently in the top left corner.
+   - Use a balanced composition with the headline at the top, an illustration in the middle, and additional text or call-to-action at the bottom.
+   - Include a subtle arrow or icon to indicate further engagement, similar to the "Swipe to know why" element.
+
+5. **Branding Elements:**
+   - Ensure the company logo is visible and consistent with the brand's color scheme.
+   - Maintain a professional and educational tone in the imagery and text.
+
+6. **Additional Elements:**
+   - Add a call-to-action at the bottom, e.g., "Discover More About Our Partnership" with a small arrow icon.
+   - Consider using a small icon or symbol related to finance or education to enhance the theme.
+
+This prompt should guide the creation of a cohesive and visually appealing social media post that aligns with the existing branding and style of the reference images.
+Reference Folder: reference_posts

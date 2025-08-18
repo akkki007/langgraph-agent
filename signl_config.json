@@ -1,0 +1,31 @@
+{
+  "company_name": "Signl",
+  "logo_description": "bold green 'Signl' wordmark in modern sans-serif typography",
+  "brand_colors": {
+    "primary": "#00C851",
+    "secondary": "#28A745",
+    "accent": "#66BB6A",
+    "background": "#FFFFFF",
+    "text": "#2E7D32",
+    "gradient_start": "#A8E6CF",
+    "gradient_end": "#00C851"
+  },
+  "typography": {
+    "primary_font": "Helvetica Neue, clean geometric sans-serif",
+    "secondary_font": "Inter for headlines and emphasis",
+    "font_weight": "700 for brand name, 600 for headings, 400 for body text"
+  },
+  "design_style": {
+    "layout": "clean minimal layout with strategic use of green gradients",
+    "visual_elements": "subtle green gradients, clean typography, modern spacing",
+    "image_style": "professional finance imagery with green accent overlays",
+    "mood": "trustworthy, growth-focused, innovative, financially empowering"
+  },
+  "post_template": {
+    "format": "Instagram square 1080x1080px",
+    "logo_position": "top-left with 32px margin, prominent green Signl wordmark",
+    "content_area": "centered with clean white background and green accent elements",
+    "footer": "@signlfinance or website in subtle green text"
+  },
+  "industry_focus": "personal finance, investment insights, financial literacy, market updates"
+}

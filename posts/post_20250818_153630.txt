@@ -1,0 +1,57 @@
+SOCIAL MEDIA POST DETAILS
+Generated: 2025-08-18 15:36:30
+
+NEWS SOURCE:
+Title: The Daily Fix | Pepperstone UK
+URL: https://jishijituan.finance/en-gb/analysis/the-daily-fix
+
+POST CONTENT:
+Caption: The markets are soaring! 🚀 With the S&P500 reaching new heights and Ethereum on the brink of a record, it's a thrilling time for investors. Discover the factors driving these surges and what it means for your portfolio!
+
+Hashtags: #MarketHighs #SP500 #Ethereum #InvestSmart #CryptoSurge #FinancialNews #TradingInsights #EconomicGrowth #InvestmentOpportunities #StockMarket
+
+Source: The Daily Fix | Pepperstone UK
+
+TECHNICAL DETAILS:
+Image Path: posts\post_20250818_153616.png
+Logo Path: reference_posts\logo.png
+Prompt Used: ### Image Generation Prompt for Instagram Post
+
+**Visual Style and Theme:**
+- **Style:** Professional and clean with a focus on finance.
+- **Theme:** Informative and engaging, using simple illustrations and text.
+
+**Colors:**
+- **Primary Color:** Green (#4CAF50) for highlights and important text.
+- **Secondary Colors:** Black and white for text and backgrounds.
+- **Accent Colors:** Light gray grid background to maintain consistency.
+
+**Typography:**
+- **Font Style:** Modern sans-serif, similar to Helvetica or Arial.
+- **Font Weight:** Bold for headlines, regular for body text.
+
+**Layout:**
+- **Background:** Light gray grid pattern.
+- **Headline Placement:** Top center with bold green text.
+- **Body Text:** Below the headline, aligned left, using black text.
+- **Illustrations:** Simple, black and white, positioned at the bottom or sides.
+- **Call to Action:** "Swipe to know more" with an arrow, placed centrally.
+
+**Logo Placement:**
+- **Logo:** Signl logo in green.
+- **Position:** Top left corner, prominently placed but not obstructing content.
+
+**Content for the Post:**
+- **Headline:** "S&P500 Hits New All-Time High!"
+- **Subheadline:** "Ethereum Nears All-Time Highs"
+- **Body Text:** Briefly mention favorable US CPI and low unemployment rate in Malaysia.
+- **Date and Time:** "Aug 11, 2025 | 04:08 - 05:08"
+- **Call to Action:** "Swipe to explore the details"
+
+**Additional Elements:**
+- **Visuals:** Include simple line illustrations of a stock market graph and Ethereum symbol.
+- **Watermark:** Subtle Signl logo watermark at the bottom right.
+
+**Overall Feel:**
+- **Professional and informative with a touch of modern design.**
+Reference Folder: reference_posts

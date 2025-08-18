@@ -1,0 +1,51 @@
+SOCIAL MEDIA POST DETAILS
+Generated: 2025-08-18 11:19:43
+
+NEWS SOURCE:
+Title: Plena Finance | Blog | Latest Crypto News
+URL: https://www.plena.finance/blog
+
+POST CONTENT:
+Caption: Dive into the world of crypto with Plena Finance! Discover the latest trends and insights that are shaping the future of digital finance. Stay informed, stay ahead!
+
+Hashtags: #CryptoNews #PlenaFinance #DigitalFinance #Blockchain #CryptoTrends #FinanceInsights #StayUpdated #CryptoCommunity #Fintech
+
+Source: Plena Finance Blog
+
+TECHNICAL DETAILS:
+Image Path: posts\post_20250818_111934.png
+Prompt Used: Based on the analysis of the provided Instagram post images, here are the key elements of the company's visual style and branding:
+
+### Visual Style and Branding Elements:
+1. **Color Scheme**: Dominant use of green and black on a white background. Green is used for emphasis and highlights.
+2. **Typography**: Clean, sans-serif fonts with a mix of bold and regular weights. Green is used for emphasis in text.
+3. **Layout**: 
+   - Grid background pattern.
+   - Use of text boxes with black outlines for emphasis.
+   - Illustrations of characters in black and white.
+   - Consistent placement of the company logo in the top left corner.
+4. **Illustrations**: Simple, black and white, cartoon-style illustrations of people.
+5. **Branding Elements**: 
+   - Company logo prominently displayed.
+   - Use of arrows and icons for emphasis and direction.
+   - Consistent messaging style with a focus on financial insights.
+
+### Image Generation Prompt:
+Create an Instagram post for Plena Finance that reflects the latest crypto news and insights. The design should align with the existing visual style and branding elements:
+
+- **Background**: Use a white background with a subtle grid pattern.
+- **Color Scheme**: Incorporate green and black as primary colors. Use green to highlight key text and elements.
+- **Typography**: Utilize a clean, sans-serif font. Emphasize important words in green and use a mix of bold and regular weights.
+- **Layout**:
+  - Place the Plena Finance logo in the top left corner.
+  - Include a prominent headline: "Stay Updated with Plena Finance!"
+  - Add a subheading: "Explore our blog for the latest crypto news and insights."
+  - Use a text box with a black outline to present a brief excerpt or call-to-action.
+- **Illustrations**: Feature a simple, black and white illustration of a person reading on a digital device, symbolizing staying informed.
+- **Icons**: Include a small arrow or icon to guide viewers to "Read More" or "Explore Now."
+- **Additional Elements**: 
+  - Add a small icon or text at the bottom indicating "Follow for more updates."
+  - Ensure the overall design is clean, modern, and professional, maintaining the brand's focus on financial insights.
+
+This prompt should help create a cohesive and visually appealing social media post that aligns with Plena Finance's branding.
+Reference Folder: reference_posts

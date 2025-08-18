@@ -1,0 +1,53 @@
+SOCIAL MEDIA POST DETAILS
+Generated: 2025-08-18 15:27:48
+
+NEWS SOURCE:
+Title: News - Qualco Intelligent Finance
+URL: https://www.qualco.finance/news
+
+POST CONTENT:
+Caption: Exciting news! Qualco Intelligent Finance partners with Athens University of Economics and Business to drive innovation in financial solutions. Discover how this collaboration is shaping the future of intelligent finance!
+
+Hashtags: #QualcoFinance #IntelligentFinance #FinancialInnovation #AthensUniversity #BusinessCollaboration #FinanceSolutions #InnovationInFinance #FutureOfFinance #Partnership #EconomicGrowth
+
+Source: Qualco Intelligent Finance
+
+TECHNICAL DETAILS:
+Image Path: posts\post_20250818_152736.png
+Logo Path: reference_posts\logo.png
+Prompt Used: Based on the analysis of the provided Instagram post images, here is a detailed image generation prompt for a new social media post:
+
+---
+
+**Prompt for Image Generation:**
+
+Create an Instagram post for "Qualco Intelligent Finance" announcing their cooperation agreement with Athens University of Economics and Business. The post should maintain the company's established visual style and branding elements.
+
+**Visual Style and Theme:**
+- **Background:** Use a subtle grid pattern in light gray to create a structured, professional look.
+- **Color Scheme:** Utilize a clean white background with accents in dark green (#2E7D32) and black for text and graphics.
+- **Typography:** Use a modern sans-serif font. Headlines should be bold and in dark green, while body text should be in black.
+
+**Layout:**
+- **Top Section:** Place the company logo "Qualco Intelligent Finance" prominently in the top left corner. Ensure it is clear but does not obstruct the main content.
+- **Main Content:** 
+  - Title: "Qualco Intelligent Finance Partners with Athens University of Economics and Business"
+  - Subtitle: "Explore the latest collaboration in intelligent finance solutions."
+  - Use a bold, dark green line to separate the title and subtitle.
+- **Illustration:** Include a simple, black-and-white illustration of two business professionals shaking hands, symbolizing partnership. Position this centrally below the text.
+- **Call to Action:** Include a small arrow icon with the text "Learn more" in dark green, positioned at the bottom right.
+
+**Logo Placement:**
+- Ensure the logo is placed in the top left corner as a watermark style, maintaining visibility without overpowering the main content.
+
+**Additional Elements:**
+- Include a small, subtle watermark of the logo in the bottom right corner for branding consistency.
+- Ensure all elements are aligned and spaced evenly for a clean, professional appearance.
+
+**Overall Tone:**
+- Professional, modern, and collaborative, reflecting the innovative nature of the partnership.
+
+---
+
+This prompt ensures the new post aligns with the existing branding and visual style of the company while effectively communicating the news.
+Reference Folder: reference_posts

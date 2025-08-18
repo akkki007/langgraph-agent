@@ -1,0 +1,21 @@
+SOCIAL MEDIA POST DETAILS
+Generated: 2025-08-18 10:50:32
+
+NEWS SOURCE:
+Title: Plena Finance | Blog | Latest Crypto News
+URL: https://www.plena.finance/blog
+
+POST CONTENT:
+Caption: Latest update on Plena Finance | Blog | Latest Crypto News
+
+Hashtags: #news #update #finance #business #trending #instagram #post #viral
+
+Source: Source: https://www.plena.finance/blog
+
+TECHNICAL DETAILS:
+Image Path: posts\post_20250818_105026.png
+Prompt Used: Create a professional social media post design based on this news:
+            Title: Plena Finance | Blog | Latest Crypto News
+            Content: Stay updated with Plena Finance! Explore our blog for the latest crypto news and insights to enhance your financial journey.
+            Make it visually appealing for Instagram with modern design elements.
+Reference Folder: reference_posts

@@ -1,0 +1,24 @@
+SOCIAL MEDIA POST DETAILS
+Generated: 2025-08-18 11:42:11
+
+NEWS SOURCE:
+Title: Plena Finance | Blog | Latest Crypto News
+URL: https://www.plena.finance/blog
+
+SCRAPED CONTENT LENGTH: 124 characters
+
+POST CONTENT:
+Caption: Dive into the world of crypto with Plena Finance! Our blog is your go-to source for the latest news and insights to empower your financial journey. Stay informed and ahead of the curve!
+
+Hashtags: #CryptoNews #Blockchain #CryptoInsights #FinanceTips #CryptoCommunity #DigitalCurrency #CryptoTrends #FinancialFreedom #InvestSmart #CryptoJourney #PlenaFinance #StayUpdated
+
+Source Attribution: Plena Finance Blog - [Explore more](https://www.plena.finance/blog)
+
+TECHNICAL DETAILS:
+Image Path: posts\post_20250818_114202.png
+Logo Used: reference_posts\logo.png
+Reference Folder: reference_posts
+Typography: Sora (headings), SF Pro Display (body)
+
+FULL ARTICLE CONTENT:
+Stay updated with Plena Finance! Explore our blog for the latest crypto news and insights to enhance your financial journey.
